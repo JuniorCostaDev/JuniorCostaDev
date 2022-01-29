@@ -1,8 +1,8 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Junior!</h1>
 <img align="right" src="https://komarev.com/ghpvc/?username=JuniorCostaDev&color=0545a6" alt="Profile views" />
 <span align="left">
-  <a href="https://www.linkedin.com/in/junior-costa-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/junior-costa-dev/" >
+    <img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:joelb9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -33,7 +33,7 @@
   ## 📈 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/Ricmaloy">
+  <a href="https://github.com/JuniorCostaDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCostaDev&layout=compact&langs_count=7&theme=react&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorCostaDev&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
