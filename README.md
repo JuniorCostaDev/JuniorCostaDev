@@ -13,14 +13,14 @@
 </span>
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
-## 💡 Sobre mim :
+## 🙋‍♂️ Sobre mim :
  - *Me chamo Junior Costa e sou do Rio de Janeiro* 
 
  - *Estou estudando em cursos de web-desenvolvimento como origamid, rockeatseat, b7web e udemy*
  
  - *Apaixonado por Desenvolvimento Web, em especial por tudo voltado ao <strong>Front End<strong> 💙* 
 
-## 🔮 Minha Stack
+## 🧑‍💻 Minha Stack
  Essas são algumas das tecnologias que uso no dia a dia
   <div align="left">
     <img src="https://img.shields.io/badge/HTML5-131e34?style=for-the-badge&logo=html5&logoColor=E34F26">
