@@ -4,12 +4,6 @@
   <a target="_blank" href="https://www.linkedin.com/in/junior-costa-dev/" >
     <img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:joelb9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/junior_jc_costa/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
 </span>
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
