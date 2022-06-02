@@ -1,11 +1,11 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, eu sou o Junior!</h1>
+<h1 align="left">Olá <img width="50" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">, eu sou o Junior!</h1>
 <img align="right" src="https://komarev.com/ghpvc/?username=JuniorCostaDev&color=0545a6" alt="Profile views" />
 <span align="left">
   <a target="_blank" href="https://www.linkedin.com/in/juniorcostadev/" >
     <img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </span>
-<img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
+<img align="right" width="300" height="300" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
 ## 🙋‍♂️ Sobre mim :
  - *Me chamo Junior Costa e sou do Rio de Janeiro* 
