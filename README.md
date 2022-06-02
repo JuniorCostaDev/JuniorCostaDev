@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Junior!</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, eu sou o Junior!</h1>
 <img align="right" src="https://komarev.com/ghpvc/?username=JuniorCostaDev&color=0545a6" alt="Profile views" />
 <span align="left">
   <a target="_blank" href="https://www.linkedin.com/in/juniorcostadev/" >
