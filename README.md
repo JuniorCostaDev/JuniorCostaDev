@@ -8,9 +8,11 @@
 <img align="right" width="300" height="300" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
 ## 🙋‍♂️ Sobre mim :
- - *Me chamo Junior Costa e sou do Rio de Janeiro* 
+ - *Me chamo Junior Costa e moro no Rio de Janeiro* 
 
- - *Estou estudando em cursos de web-desenvolvimento como origamid, rockeatseat, b7web e udemy*
+ - *Estou estudando em cursos de desenvolvimento web como Origamid, Rockeatseat, B7web e Udemy*
+
+ - *Atualmente estudando sobre React.
  
  - *Apaixonado por Desenvolvimento Web, em especial por tudo voltado ao <strong>Front End<strong> 💙* 
 
@@ -24,7 +26,7 @@
     <img src="https://img.shields.io/badge/React-131e34?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/Git-131e34?style=for-the-badge&logo=git&logoColor=E34F26">
     <img src="https://img.shields.io/badge/Linux-131e34?style=for-the-badge&logo=linux&logoColor=E34F26">
-    <img src="https://img.shields.io/badge/jQuery-131e34?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/jQuery-131e34?style=for-the-badge&logo=jquery&logoColor=72c7f0">
     
   </div>
   
