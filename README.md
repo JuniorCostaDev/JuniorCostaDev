@@ -1,8 +1,8 @@
 <h1 align="left">Olá <img width="50" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">, bem vindo ao meu perfil!</h1>
 <img align="right" src="https://komarev.com/ghpvc/?username=JuniorCostaDev&color=0545a6" alt="Profile views" />
 <span align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/juniorcostadev/" >
-    <img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/juniorcostadev/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </span>
 <img align="right" width="300" height="300" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
@@ -19,14 +19,30 @@
 ## 🧑‍💻 Minha Stack
  Essas são algumas das tecnologias que uso no dia a dia
   <div align="left">
-    <img src="https://img.shields.io/badge/HTML5-131e34?style=for-the-badge&logo=html5&logoColor=E34F26">
-    <img src="https://img.shields.io/badge/CSS3-131e34?style=for-the-badge&logo=css3&logoColor=1572B6">
-    <img src="https://img.shields.io/badge/JavaScript-131e34?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/Sass-131e34?style=for-the-badge&logo=sass&logoColor=CC6699">
-    <img src="https://img.shields.io/badge/React-131e34?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Git-131e34?style=for-the-badge&logo=git&logoColor=E34F26">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+      <img src="https://img.shields.io/badge/HTML5-131e34?style=for-the-badge&logo=html5&logoColor=E34F26">
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+      <img src="https://img.shields.io/badge/CSS3-131e34?style=for-the-badge&logo=css3&logoColor=1572B6">
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+      <img src="https://img.shields.io/badge/JavaScript-131e34?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    </a>
+    <a href="https://sass-lang.com/guide">
+      <img src="https://img.shields.io/badge/Sass-131e34?style=for-the-badge&logo=sass&logoColor=CC6699">
+    </a>
+    <a href="https://pt-br.reactjs.org/">
+      <img src="https://img.shields.io/badge/React-131e34?style=for-the-badge&logo=react&logoColor=61DAFB">
+    </a>
+    <a href="https://www.w3schools.com/git/default.asp">
+      <img src="https://img.shields.io/badge/Git-131e34?style=for-the-badge&logo=git&logoColor=E34F26">
+    </a>
+    <a href="https://4linux.com.br/o-que-e-linux/">
     <img src="https://img.shields.io/badge/Linux-131e34?style=for-the-badge&logo=linux&logoColor=E34F26">
+    </a>
+    <a href="https://www.w3schools.com/jquery/jquery_intro.asp">
     <img src="https://img.shields.io/badge/jQuery-131e34?style=for-the-badge&logo=jquery&logoColor=72c7f0">
+    </a>
     
   </div>
   
