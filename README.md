@@ -10,7 +10,7 @@
 ## 🙋‍♂️ Sobre mim :
  - *Me chamo Junior Costa e moro no Rio de Janeiro* 
 
- - *Estou estudando em cursos de desenvolvimento web como Origamid, Rockeatseat, B7web e Udemy*
+ - *Estou estudando em cursos de desenvolvimento web como Origamid, Rockeatseat, B7web e Udemy
 
  - *Atualmente estudando sobre React.
  
