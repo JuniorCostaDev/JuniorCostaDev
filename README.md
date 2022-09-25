@@ -28,6 +28,9 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
       <img src="https://img.shields.io/badge/JavaScript-131e34?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     </a>
+    <a href="https://www.typescriptlang.org/">
+      <img src="https://img.shields.io/badge/TypeScript-131e34?style=for-the-badge&logo=typescript&logoColor=007ACC">
+    </a>
     <a href="https://sass-lang.com/guide">
       <img src="https://img.shields.io/badge/Sass-131e34?style=for-the-badge&logo=sass&logoColor=CC6699">
     </a>
@@ -38,7 +41,7 @@
       <img src="https://img.shields.io/badge/Git-131e34?style=for-the-badge&logo=git&logoColor=E34F26">
     </a>
     <a href="https://4linux.com.br/o-que-e-linux/">
-    <img src="https://img.shields.io/badge/Linux-131e34?style=for-the-badge&logo=linux&logoColor=E34F26">
+    <img src="https://img.shields.io/badge/Linux-131e34?style=for-the-badge&logo=linux&logoColor=white">
     </a>
     <a href="https://www.w3schools.com/jquery/jquery_intro.asp">
     <img src="https://img.shields.io/badge/jQuery-131e34?style=for-the-badge&logo=jquery&logoColor=72c7f0">
